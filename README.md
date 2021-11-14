@@ -2,10 +2,10 @@
 
 ## Description
 It is a webApp which shrinks the URL to 4-Characters.
-ex: https://www.google.com/ => https://e\XB
+ex: "https://www.google.com/" => "https://e\XB"
 
 ## Technology Used
-html
+html /n
 javascript
 
 
